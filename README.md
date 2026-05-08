@@ -58,3 +58,4 @@ Demonstrates end-to-end BI skills: data preparation, modeling, visualization, an
 Suitable for business stakeholders, analysts, and leadership presentations.
 
  **Screenshots**
+ Example: ![Dashbaord Preview](https://github.com/sgsinghashka-del/Zomato-Dashboard/blob/main/Zomato%20Dashbaoard.png)
